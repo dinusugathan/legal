@@ -1,0 +1,15 @@
+.message {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.user-message {
+    background: #d1e7dd;
+    margin-left: 20%;
+}
+
+.assistant-message {
+    background: #e9ecef;
+    margin-right: 20%;
+}
